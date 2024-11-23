@@ -228,7 +228,7 @@ class Renderer {
         if (/^\d{6,}$/.test(id)) {
             return (
                 <a
-                    href={`https://studio.penguinmod.com/#${id}`}
+                    href={`https://kokodevelopment.github.io/#${id}`}
                 >
                     {`#${id}`}
                 </a>
@@ -236,7 +236,7 @@ class Renderer {
         }
         return (
             <a
-                href={`https://penguinmod.com/search?q=%23${id}`}
+                href={`https://pm.kokodev.cc/search?q=%23${id}`}
                 target="_blank"
                 rel="noreferrer"
             >
@@ -248,7 +248,7 @@ class Renderer {
     mention (name) {
         return (
             <a
-                href={`https://penguinmod.com/profile?user=${name}`}
+                href={`https://pm.kokodev.cc/profile?user=${name}`}
                 target="_blank"
                 rel="noreferrer"
             >
