@@ -48,7 +48,7 @@ const fetchProjectToken = projectId => {
     if (hashParams.has('token')) {
         return Promise.resolve(hashParams.get('token'));
     }
-    return fetch(`https://projects.penguinmod.com/api/v1/projects/getproject?projectID=${projectId}&requestType=metadata`)
+    return fetch(`https://pmprojects.kokodev.cc/api/v1/projects/getproject?projectID=${projectId}&requestType=metadata`)
         .then(r => {
             if (!r.ok) return null;
             return r.json();
