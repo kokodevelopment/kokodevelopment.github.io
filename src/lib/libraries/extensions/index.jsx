@@ -136,6 +136,9 @@ import theshovelColorPickerIcon from './penguinmod/orgtw/ColorPicker.svg';
 // sharkpool
 import sharkpoolPrintingIcon from './penguinmod/extensions/printing.svg';
 import sharkpoolTuneIcon from './penguinmod/extensions/tuneShark.svg';
+import sharkpoolMBPIcon from './penguinmod/extensions/myBlocksPlus.svg';
+import sharkpoolBCIcon from './penguinmod/extensions/BetterComments.svg';
+import sharkpoolPEIcon from './penguinmod/extensions/particleEngine.svg';
 import jgScriptsExtensionIcon from './penguinmod/extensions/scripts.svg';
 
 // events
@@ -363,6 +366,7 @@ const menuItems = [
         iconURL: sharkpoolTuneIcon,
         tags: ['penguinmod', 'categoryexpansion', 'noisemaker'],
         description: 'Advanced audio engine with complex sound control, multiple audio effects and more!',
+        extDeveloper: 'SharkPool',
         featured: true
     },
     {
@@ -419,11 +423,38 @@ const menuItems = [
         featured: true
     },
     {
+        name: 'My Blocks+',
+        extensionId: 'https://sharkpools-extensions.vercel.app/extension-code/My-Blocks-Plus.js',
+        iconURL: sharkpoolMBPIcon,
+        tags: ['penguinmod', 'categoryexpansion'],
+        description: 'Create private or global custom blocks with custom inputs, colors, and more!',
+        extDeveloper: 'SharkPool, CST1229, 0znzw',
+        featured: true
+    },
+    {
+        name: 'Better Comments',
+        extensionId: 'https://sharkpools-extensions.vercel.app/extension-code/Better-Comments.js',
+        iconURL: sharkpoolBCIcon,
+        tags: ['penguinmod', 'categoryexpansion'],
+        description: 'Better Comments with Customization and Markdown support',
+        extDeveloper: 'SharkPool',
+        featured: true
+    },
+    {
         name: 'JSON',
         extensionId: 'jgJSON',
         iconURL: jgJSONExtensionIcon,
         tags: ['penguinmod', 'datamgmt'],
         description: 'Blocks for handling JSON objects and Arrays.',
+        featured: true
+    },
+    {
+        name: 'Particle Engine',
+        extensionId: 'https://sharkpools-extensions.vercel.app/extension-code/Particle-Engine.js',
+        iconURL: sharkpoolPEIcon,
+        tags: ['penguinmod', 'graphics'],
+        description: 'Create powerful Particle Engines without Clones',
+        extDeveloper: 'SharkPool',
         featured: true
     },
     {
