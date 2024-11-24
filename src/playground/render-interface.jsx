@@ -458,7 +458,7 @@ class Interface extends React.Component {
                                         <a
                                             target="_blank"
                                             rel="noreferrer"
-                                            href={`https://penguinmod.com/report?type=project&id=${projectId}`}
+                                            href={`https://pm.kokodev.cc/report?type=project&id=${projectId}`}
                                             className={styles.reportLink}
                                         >
                                             <img
