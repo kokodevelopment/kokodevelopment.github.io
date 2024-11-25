@@ -21,7 +21,7 @@ const fromHardcodedGithub = username => ({
 });
 const fromHardcodedNamed = username => ({
     image: `https://penguinmod.com/unknown_user.png`,
-    href: "https://studio.penguinmod.com/credits.html#",
+    href: "https://kokodevelopment.github.io/credits.html#",
     text: username
 });
 
@@ -208,17 +208,17 @@ const pmTranslators = [
     {
         text: 'kolikiscool',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'n0name',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'a_pc',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'LoyalBlackBishopyBoi',
@@ -263,7 +263,7 @@ const pmTranslators = [
     {
         text: 'SmolBoi37',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'GigantTech',
@@ -341,7 +341,7 @@ const pmTranslators = [
     {
         text: 'con-zie',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'ImNotScratchY_lolol',
@@ -416,67 +416,67 @@ const pmCostumeSubmittors = [
     {
         text: 'maroonmball',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'eviepepsi',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: '1340073',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'cubeycreator',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'novaspiderultra',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'poundpound0209',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'gdplayer1035',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'cognitixsammy',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'thebusyman',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'skyglide5',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'cxnnie09',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'hoveras',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'blockgamer904',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
 ];
 const pmSoundSubmittors = [
@@ -500,37 +500,37 @@ const pmSoundSubmittors = [
     {
         text: 'maroonmball',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'jn567',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'lukepuke311',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'ma_01',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'poundpound0209',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'cognitixsammy',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
     {
         text: 'mememaster9000',
         image: `https://penguinmod.com/unknown_user.png`,
-        href: "https://studio.penguinmod.com/credits.html#",
+        href: "https://kokodevelopment.github.io/credits.html#",
     },
 ];
 
