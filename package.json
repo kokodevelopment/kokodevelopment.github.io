@@ -85,7 +85,7 @@
     "scratch-blocks": "github:PenguinMod/PenguinMod-Blocks#develop-builds",
     "scratch-paint": "github:kokodevelopment/Paint#develop",
     "scratch-render": "github:PenguinMod/PenguinMod-Render#develop",
-    "scratch-render-fonts": "github:PenguinMod/penguinmod-render-fonts#master",
+    "scratch-render-fonts": "github:kokodevelopment/render-fonts#master",
     "scratch-storage": "github:PenguinMod/PenguinMod-Storage#develop",
     "scratch-svg-renderer": "github:TurboWarp/scratch-svg-renderer#develop",
     "scratch-vm": "github:kokodevelopment/PenguinMod-Vm#develop",
