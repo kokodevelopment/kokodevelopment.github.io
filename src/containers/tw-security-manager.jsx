@@ -25,10 +25,12 @@ const isTrustedExtensionOrigin = url => (
     url.startsWith('https://extensions.turbowarp.org/') ||
     url.startsWith('https://extensions.penguinmod.com/') ||
     url.startsWith('https://penguinmod-extensions-gallery.vercel.app/') ||
-
+    url.startsWith('https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/main') ||
     // Trust other people's galleries. These can be removed in the future, they will just show a pop-up on load if they are.
     url.startsWith('https://sharkpools-extensions.vercel.app/') || // SharkPool
     url.startsWith('https://pen-group.github.io/') || // Pen-Group / ObviousAlexC
+    url.startsWith('https://raw.githubusercontent.com/SharkPool-SP/SharkPools-Extensions/main') || // Some people cant connect to vercel
+
 
     // For development.
     url.startsWith('http://localhost:8000') ||

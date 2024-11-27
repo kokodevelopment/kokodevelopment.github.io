@@ -6,6 +6,9 @@ import {APP_NAME} from '../../brand';
 import musicIconURL from './music/music.png';
 import musicInsetIconURL from './music/music-small.svg';
 
+import chatgptIconUrl from './penguinmod/extensions/chatgpt.png';
+import chatgptInsetIconURL from './penguinmod/extensions/chatgpt.svg';
+
 import penIconURL from './pen/pen.png';
 import penInsetIconURL from './pen/pen-small.svg';
 
@@ -307,6 +310,18 @@ const menuItems = [
             />
         ),
         featured: true
+    },
+    {
+        name: 'ChatGPT',
+        extensionId: 'https://raw.githubusercontent.com/kokofixcomputers/scratch-extension-collection/main/downloads/chatgpt_scratch_extensions.js',
+        collaborator: 'OpenAI',
+        iconURL: chatgptInsetIconURL,
+        insetIconURL: chatgptIconUrl,
+        tags: ['AI', 'orangemod'],
+        description: 'Add the power of ChatGPT to your projects!',
+        extDeveloper: 'kokofixcomputers',
+        featured: true,
+        internetConnectionRequired: true,
     },
     {
         name: 'Stage Camera',
