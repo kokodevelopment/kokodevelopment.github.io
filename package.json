@@ -84,7 +84,7 @@
     "scratch-audio": "github:PenguinMod/PenguinMod-Audio#develop",
     "scratch-blocks": "github:PenguinMod/PenguinMod-Blocks#develop-builds",
     "scratch-paint": "github:kokodevelopment/Paint#develop",
-    "scratch-render": "github:PenguinMod/PenguinMod-Render#develop",
+    "scratch-render": "github:kokodevelopment/OrangeMod-Render#develop",
     "scratch-render-fonts": "github:kokodevelopment/render-fonts#master",
     "scratch-storage": "github:PenguinMod/PenguinMod-Storage#develop",
     "scratch-svg-renderer": "github:TurboWarp/scratch-svg-renderer#develop",
