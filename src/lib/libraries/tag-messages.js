@@ -146,6 +146,11 @@ export default defineMessages({
         description: 'Tag for filtering a library by PenguinMod',
         id: 'gui.libraryTags.penguinmod'
     },
+    orangemod: {
+        defaultMessage: 'OrangeMod',
+        description: 'Tag for filtering a library by OrangeMod',
+        id: 'gui.libraryTags.orangemod'
+    },
     scratch: {
         defaultMessage: 'Scratch',
         description: 'Tag for filtering a library by Scratch',
@@ -195,6 +200,11 @@ export default defineMessages({
         defaultMessage: 'Collections',
         description: 'Tag for filtering a library by extension collections.',
         id: 'gui.libraryTags.library'
+    },
+    ai: {
+        defaultMessage: 'AI',
+        description: 'Tag for filtering a library by AI.',
+        id: 'gui.libraryTags.ai'
     },
     extcreate: {
         defaultMessage: 'Extension Creators',

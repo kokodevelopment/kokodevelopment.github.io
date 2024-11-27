@@ -317,7 +317,7 @@ const menuItems = [
         collaborator: 'OpenAI',
         iconURL: chatgptInsetIconURL,
         insetIconURL: chatgptIconUrl,
-        tags: ['AI', 'orangemod'],
+        tags: ['ai', 'orangemod'],
         description: 'Add the power of ChatGPT to your projects!',
         extDeveloper: 'kokofixcomputers',
         featured: true,
